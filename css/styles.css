@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+    margin: 0;
+  }
+  
+  th, td {
+    min-height: 20px; 
+    min-width: 60px;
+  }
+  
+  th {
+    background-color: #E6E6E6;
+  }
+  
+  td:hover {
+    background-color: #209F62;
+  }
+  
+  input {
+    max-width: 55px;
+    border: none
+  }
